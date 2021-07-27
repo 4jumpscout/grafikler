@@ -1,0 +1,62 @@
+[
+  {
+    "OYUNCU": "Cristiana  Ronaldo",
+    "ÜLKE": "Portekiz",
+    "MAÇ SAYISI": 24,
+    "GOL": 14
+  },
+  {
+    "OYUNCU": "Michel Platini",
+    "ÜLKE": "Fransa",
+    "MAÇ SAYISI": 5,
+    "GOL": 9
+  },
+  {
+    "OYUNCU": "Alan Shearer",
+    "ÜLKE": "İngiltere",
+    "MAÇ SAYISI": 9,
+    "GOL": 7
+  },
+  {
+    "OYUNCU": "Antoine Griezmann",
+    "ÜLKE": "Fransa",
+    "MAÇ SAYISI":8 ,
+    "GOL": 7
+  },
+  {
+    "OYUNCU": "Ruud van Nistelrooy  ",
+    "ÜLKE": "Hollanda",
+    "MAÇ SAYISI":8 ,
+    "GOL":6
+  },
+  {
+    "OYUNCU": "Patrick Kluivert",
+    "ÜLKE": "Hollanda",
+    "MAÇ SAYISI": 9,
+    "GOL": 6
+  },
+  {
+    "OYUNCU": "Wayne Rooney",
+    "ÜLKE": "İngiltere",
+    "MAÇ SAYISI": 11,
+    "GOL": 6
+  },
+  {
+    "OYUNCU": "Thierry Henry",
+    "ÜLKE": "Fransa",
+    "MAÇ SAYISI": 11,
+    "GOL":6
+  },
+  {
+    "OYUNCU": "Zlatan Ibrahimovic",
+    "ÜLKE": "İsveç",
+    "MAÇ SAYISI": 13,
+    "GOL":6
+  },
+  {
+    "OYUNCU": "Nuno Gomes",
+    "ÜLKE": "Portekiz",
+    "MAÇ SAYISI":14 ,
+    "GOL": 6
+  }
+]
